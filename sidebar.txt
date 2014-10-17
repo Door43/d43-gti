@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gti:home|Door43 (gti)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gti|d43-gti repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gti/archive/master.zip|d43-gti.zip]]
+
+**Recent Changes**
+{{changes>ns = gti}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gti|Ethnologue data]]
+
